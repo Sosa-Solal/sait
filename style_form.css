@@ -1,0 +1,96 @@
+@import url("style.css");
+.h1_html2{
+    color: white;
+    font-size: medium;
+    height: 45px;
+    background-color: rgb(101, 218, 255);
+    line-height: 45px;
+    
+
+}
+.mein_div{
+    
+    margin-top: 50px;
+    text-align: center;
+    box-shadow: 0px 0px 12px;
+    height: auto;
+}
+.return{
+    position: absolute;
+    text-decoration: none;
+    background-color:white ;
+    color: black;
+    left: 0px;
+    width: 50px;
+    height: 45px;
+    padding-top:10px ;
+    font-size: larger;
+    top: 0px;
+
+}
+.container2{
+    padding: 20px 20px;
+    text-align: left;
+}
+.Login-legend{
+    color: white;
+    text-align: left;
+    margin-left: 10px;
+}
+.login{
+    background-color: rgb(34, 34, 34);
+    border: none ;
+    border-bottom: 2px solid white ;
+    font-size: larger;
+    width: 1250px;
+    padding: 20px;
+    margin: 30px 0px;
+    color: white;
+}
+.login_hr{
+    width: 1290px;
+    margin: 0px auto;
+}
+.gender{
+    margin-top: 20px;
+    color: white;
+    text-align: left;
+    font-weight: 300;
+    font-size:larger;
+}
+.sex{
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+    margin-left: 10px;
+}
+.fil{
+    text-align: center;
+}
+.fil2{
+    margin-top: 20px;
+    height: 300px;
+    padding: 20px;
+}
+.next{
+    margin: 20px 0px;
+    background: linear-gradient(45deg,rgb(101, 219, 254),rgb(112, 254, 204));
+    color: white;
+    font-size: large;
+    height: 60px;
+    width: 400px;
+}
+.center{
+    text-align: center;
+}
+.texts{
+    margin-top: 20px;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    resize: none;
+    width: 100%;
+    height: 300px;
+    font-size: large;
+    padding: 20px;
+    border: 2px solid white ;
+}

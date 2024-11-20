@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(34, 34, 34) ;
+}
+.title{
+    color:rgb(93, 192, 225) ;
+    margin-bottom: 20px;
+    font-size: 20px ;
+    text-align: center;
+}
+.container{
+    width: 1400px;
+    margin-left:auto ;
+    margin-right: auto;
+    position: relative;
+}
+.button-next{
+    background: linear-gradient(rgb(101, 218, 252) rgb(112, 253, 203));
+    color: white;
+    font-size: medium;
+    padding: 10px 20px;
+    display: block;
+    width:fit-content;
+}
+.block{
+    box-shadow: 2px 2px 2px black;
+}
+.text-p{
+    color: white;
+}
+.text-a{
+    color: white;
+    text-decoration: none;
+    
+
+}
+.nav-links{
+    float: right;
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+    padding: 0px 5px;
+    line-height: 35px;
+    
+}
+
+.navigation-img{
+    position: relative;
+}
+.headr-text{
+    color: rgb(78, 78, 78);
+    font-size: 69px;
+    margin: 100px 0;
+    
+}
+    
+   
+    
+
+.nav{
+    padding: 20px;
+
+}
+.h1{
+    
+    font-size: 110px;
+    color:hsl(0, 0%, 31%);
+}
+.header{
+    background-image:url(img/apex-legends-pathfinder-robot-emoticons-saluting-futuristic.jpg)   ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    height: 80vh;
+    object-fit:cover;
+    padding: 100px 30px;
+}
+.headre-link{
+    text-decoration: none;
+    color: white;
+    background: linear-gradient(45deg,rgb(102, 219, 249),rgb(112, 253, 204));
+    width: 400px;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    font-size: 20px;
+    
+    
+    display: inline-block;
+}
+.info{
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    
+    
+}
+.info-img{
+    height: 150px;
+    
+}
+.info-text{
+    color:rgb(102, 219, 249) ;
+    font-size: 30px;
+    margin: 20px 10px;
+    
+}
+.info-card{
+    display: inline-block;
+    margin: 50px 50px;
+    vertical-align: top;
+    
+    
+}
+.what-to-play{
+    box-shadow: 0PX 0PX 20PX black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    padding:50px 5px;
+
+}
+
+.card-name{
+    color: rgb(111, 253, 201);
+    font-size: xx-large;
+    
+}
+.card-text{
+    color :white;
+    font-size: 25px;
+    font-weight: 100;
+    
+}
+.hrr{
+    border-color: rgb(111, 253, 201);
+    width: 100px;
+    margin: 20px 0  ;
+}
+.card-img{
+    width: 49%;
+    height: 450px;
+    object-fit: cover;
+    object-position: left;
+    box-shadow: 0px 0px 10px rgb(111, 253, 201);
+
+    
+}
+.card-main{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+    padding: 40px;
+    
+}
+.card-title{
+    color: rgb(101, 217, 254);
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+    margin-bottom: 50px;
+    
+}
+.title-extra-info{
+    font-size: 40px;
+    margin: 50px auto;
+}
+.text-info{
+    text-align: center;
+    font-size: 27px;
+}
+.extra-info{
+    margin: 100px auto;
+}
+.title-ds{
+    font-size: xx-large;
+    padding: 50px 0px ;
+}
+.container-ds{
+    box-shadow: 0px 0px 10px black;
+    padding-bottom: 120px;
+    margin: 40PX 0PX;
+}
+.hr2{
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 30px auto;
+}
+.Click-here{
+    margin: 20px 60px;
+    height: auto;
+    background-color: rgb(101, 218, 255);
+    
+    
+
+}
+h3{
+    display: inline-block;
+    color: white;
+    font-size: 50px;
+    padding: 60px 150px;
+   
+}
+.Sign_up{
+    position: relative;
+    font-size: large;
+    left: 350px;
+    bottom: 10px;
+    color: white;
+    text-decoration: none; 
+    background-color: black; 
+    padding: 20px 50px;
+
+}
